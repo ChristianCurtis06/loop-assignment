@@ -1,0 +1,1 @@
+This repository includes the assignment: Python Loop Statements in Module 2: Lesson 4 of the Software Engineering Core.
